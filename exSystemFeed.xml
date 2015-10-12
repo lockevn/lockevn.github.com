@@ -1,0 +1,8 @@
+<root>
+	<item name="Email" value="Email"></item>
+	<item name="recipientId" value="recipientId"></item>
+	<item name="campaignId" value="campaignId"></item>
+	<item name="age" value="age"></item>
+	<item name="country" value="country"></item>
+	<item name="phoneNumber" value="phoneNumber"></item>
+</root>
